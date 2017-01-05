@@ -6,7 +6,7 @@ Android Widget Library
 
 ## Widgets
 #### WeezButton
-  - Feedback button
+  - Feedback image button
   - Feedback style 설정 가능
   - Ripple effect 대안으로 사용가능
  
