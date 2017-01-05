@@ -5,12 +5,12 @@ Android Widget Library
 안드로이드 기반의 다양한 커스텀 위젯 패키지로 꾸며질 예정입니다.
 
 ## Widgets
-### WeezButton
+#### WeezButton
   - Feedback button
   - Feedback style 설정 가능
   - Ripple effect 대안으로 사용가능
  
-### WeezRollBanner
+#### WeezRollBanner
   - Android roll banner widget
   - 로컬, 서버 이미지 모두 표시 가능 (다운로드 후 출력)
   - ImageSwitcher를 이용한 이미지 페이징 시에 부드러운 애니메이션 처리
